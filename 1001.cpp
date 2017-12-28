@@ -5,3 +5,5 @@ int main(){
 	while(cin>>a>>b)
 		cout<<a+b<<endl;
 }
+
+//while(scanf("%d %d",&a, &b) != EOF)
