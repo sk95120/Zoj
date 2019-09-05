@@ -1,5 +1,5 @@
-#https://zoj.pintia.cn/problem-sets/91827364500/problems/91827369832
-#https://www.cnblogs.com/oneshot/p/4065859.html
+//https://zoj.pintia.cn/problem-sets/91827364500/problems/91827369832
+//https://www.cnblogs.com/oneshot/p/4065859.html
 
 #include <iostream>
 #include <stdio.h>
